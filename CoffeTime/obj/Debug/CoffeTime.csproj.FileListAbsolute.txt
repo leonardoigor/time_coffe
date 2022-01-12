@@ -1,0 +1,14 @@
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\bin\Debug\CoffeTime.exe.config
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\bin\Debug\CoffeTime.exe
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\bin\Debug\CoffeTime.pdb
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\obj\Debug\CoffeTime.csproj.AssemblyReference.cache
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\obj\Debug\CoffeTime.Properties.Resources.resources
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\obj\Debug\CoffeTime.csproj.GenerateResource.cache
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\obj\Debug\CoffeTime.csproj.CoreCompileInputs.cache
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\obj\Debug\CoffeTime.exe
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\obj\Debug\CoffeTime.pdb
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\obj\Debug\CoffeTime.Hora.resources
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\bin\Debug\CoffeTime.exe.manifest
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\bin\Debug\CoffeTime.application
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\obj\Debug\CoffeTime.exe.manifest
+C:\Users\igor.leonardo\Desktop\devs\CoffeTime\CoffeTime\obj\Debug\CoffeTime.application
